@@ -1,2 +1,2 @@
 # PrestashopMigrations
-Ready PHP Database Migrations for Prestashop
+Ready PHP Database Migrations for Prestashop with Phinx
